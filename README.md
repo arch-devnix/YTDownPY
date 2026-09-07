@@ -1,6 +1,6 @@
 # YTDownPY
 
-YTDownPY | YouTube video downloader desktop app made using Python, featuring a GUI interface built with Custom Tkinter, and media extraction done using yt-dlp library as a backend. Uses multi-threading to make sure the GUI doesn't just freeze
+YTDownPY | YouTube video downloader desktop app made using Python, featuring a GUI interface built with Custom Tkinter, and media extraction done using yt-dlp library as a backend. Uses multi-threading to make sure the GUI doesn't just freeze. Made without care - for semi-technical users who hate the bloat and ads on websites. Configure the code to your needs.
 
 ## Features
 
