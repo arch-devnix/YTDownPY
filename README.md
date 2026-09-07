@@ -36,7 +36,7 @@ pip install -r requirements.txt
 python main.py
 ```
 ## Showcase
-<img width="489" height="253" alt="YTDownPy Interface" src="https://github.com/user-attachments/assets/29babbe8-3469-4690-9df6-035b6c323364" />
+<img width="489" height="353" alt="YTDownPy Interface" src="https://github.com/user-attachments/assets/29babbe8-3469-4690-9df6-035b6c323364" />
 
 ## License
 This project uses the MIT License, refer to `LICENSE` for more details.
