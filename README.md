@@ -25,7 +25,7 @@ Main.py is the frontend that mainly handles the GUI and download.py is for: you 
 1. Clone or download the repo into your local machine, and open up a terminal in the downloaded directory.
 
 ```bash
-git clone https://github.com/your-username/YTDownPY.git
+git clone https://github.com/arch-devnix/YTDownPY.git
 cd YTDownPY
 
 ```
