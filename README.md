@@ -1,56 +1,44 @@
 # YTDownPY
 
-YouTube video downloader desktop app made using Python, featuring a GUI built with **CustomTkinter** and media extraction powered by **yt-dlp**. Uses multi-threading to ensure the interface remains fast and responsive.
-
----
+YTDownPY | YouTube video downloader desktop app made using Python, featuring a GUI interface built with Custom Tkinter, and media extraction done using yt-dlp library as a backend. Uses multi-threading to make sure the GUI doesn't just freeze
 
 ## Features
 
-* **Query Search:** Searches and retrieves the top 5 YouTube videos matching key terms.
-* **Responsive GUI:** Offloads heavy download tasks to background threads to prevent UI freezes.
-* **Progress Tracking:** Integrated CustomTkinter progress bar for real-time status updates.
-* **Input Validation:** Prevents empty queries and handles network/download errors gracefully.
-
----
+Query Search: searches and retrieves the top 5 YouTube videos matching the query keywords
+Responsive GUI: uses a background thread to process tasks
+Progress indicators: CustomTkinter progress indicator
+Error handling: Stops users from submitting an empty query
 
 ## Project Structure
 
-* **`main.py`**: Handles the CustomTkinter GUI layout, user inputs, and thread management.
-* **`download.py`**: Manages backend logic, queries, and media extraction via `yt-dlp`.
+Main.py is the frontend that mainly handles the GUI and download.py is for: you guessed it... Downloading.
 
----
-
-## Installation & Usage
+## Installation / Usage
 
 ### Prerequisites
 
 * **Python 3.8+**
-* **FFmpeg** installed and added to your system PATH (required by `yt-dlp` for video/audio processing).
-* **Linux (Arch):** `sudo pacman -S ffmpeg`
-* **Linux (Debian/Ubuntu):** `sudo apt install ffmpeg`
-* **macOS:** `brew install ffmpeg`
-* **Windows:** Download via [ffmpeg.org](https://ffmpeg.org/download.html) or `winget install FFmpeg`
-
-
+* **FFmpeg** installed and added to your system PATH (required by `yt-dlp` for video and audio processing)
 
 ### Setup
 
-1. **Clone the repository**
+1. Clone or download the repo into your local machine, and open up a terminal in the downloaded directory.
+
 ```bash
 git clone https://github.com/your-username/YTDownPY.git
 cd YTDownPY
 
 ```
 
+2. Create a virtual environment inside the directory
 
-2. **Create a virtual environment**
 ```bash
 python -m venv venv
 
 ```
 
+3. Activate the virtual environment
 
-3. **Activate the virtual environment**
 * **Linux / macOS:**
 ```bash
 source venv/bin/activate
@@ -73,34 +61,28 @@ venv\Scripts\Activate.ps1
 
 
 
+4. Install the dependencies
 
-4. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 
 ```
 
+5. Run the program
 
-5. **Run the application**
 ```bash
 python main.py
 
 ```
 
-
-
----
-
 ## Showcase
-
----
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
----
+This project uses the MIT License, refer to `LICENSE` for more details.
 
 ## Note
 
-This was a fun weekend project built on Arch Linux (*I use Arch BTW*). It is provided as-is and will not be actively maintained.
+I won't be maintaining this since this was just a fun weekend project. Don't expect anything crazy. This was built in Arch Linux therefore, it might not work on other operating systems (Although i'm 99% sure it does work)
+
+yes, that was just for me to say "I use Arch BTW"
