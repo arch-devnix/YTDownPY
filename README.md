@@ -85,7 +85,7 @@ python main.py
 
 This project uses the MIT License, refer to `LICENSE` for more details.
 
-## Note
+## Disclaimer
 
 I won't be maintaining this since this was just a fun weekend project. Don't expect anything crazy. This was built in Arch Linux therefore, it might not work on other operating systems (Although i'm 99% sure it does work)
 
