@@ -36,8 +36,10 @@ pip install -r requirements.txt
 python main.py
 ```
 ## Showcase
-<img width="489" height="353" alt="YTDownPy Interface" src="https://github.com/user-attachments/assets/29babbe8-3469-4690-9df6-035b6c323364" />
-<img width="770" height="480" alt="output (online-video-cutter com)(3)" src="https://github.com/user-attachments/assets/3be38115-3cb2-4142-b89c-79e282b6cc00" />
+<p align="center">
+  <img width="400" alt="YTDownPy Interface" src="https://github.com/user-attachments/assets/29babbe8-3469-4690-9df6-035b6c323364" />
+  <img width="400" alt="YTDownPy Demo" src="https://github.com/user-attachments/assets/3be38115-3cb2-4142-b89c-79e282b6cc00" />
+</p>
 
 ## License
 This project uses the MIT License, refer to `LICENSE` for more details.
