@@ -76,7 +76,11 @@ python main.py
 ```
 
 ## Showcase
-
+<p align="center">   
+  <img width="400" alt="YTDownPy Interface" src="https://github.com/user-attachments/assets/29babbe8-3469-4690-9df6-035b6c323364" />   
+  <img width="421" alt="YTDownPy Demo" src="https://github.com/user-attachments/assets/3be38115-3cb2-4142-b89c-79e282b6cc00" /> 
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/76a94acc-e0ae-43cd-8fad-4328974bc445" />
+  
 ## License
 
 This project uses the MIT License, refer to `LICENSE` for more details.
