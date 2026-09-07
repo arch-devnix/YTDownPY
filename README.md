@@ -37,6 +37,7 @@ python main.py
 ```
 ## Showcase
 <img width="489" height="353" alt="YTDownPy Interface" src="https://github.com/user-attachments/assets/29babbe8-3469-4690-9df6-035b6c323364" />
+![YTDownPy Demo](<img width="770" height="480" alt="output (online-video-cutter com)(3)" src="https://github.com/user-attachments/assets/3be38115-3cb2-4142-b89c-79e282b6cc00" />)
 
 ## License
 This project uses the MIT License, refer to `LICENSE` for more details.
