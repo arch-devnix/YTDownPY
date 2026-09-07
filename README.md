@@ -7,7 +7,7 @@ Progress indicators: CustomTkinter progress indicator
 Error handling: Stops users from submitting an empty query
 
 ## Project Structure
-Main.py is the frontend that mainly handles the GUI and download.py is for. you guessed it... Downloading.
+Main.py is the frontend that mainly handles the GUI and download.py is for: you guessed it... Downloading.
 
 ## Installation / Usage
 
