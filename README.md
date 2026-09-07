@@ -13,7 +13,7 @@ Main.py is the frontend that mainly handles the GUI and download.py is for. you 
 
 1. Clone or download the repo into your local machine, and open up a terminal in the downloaded directory.
 ```
-cd YTPyV2
+cd YTDownPY
 ```
 
 2. Create a virtual enviroment inside the directory
