@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System Files (Linux/Arch)
+.DS_Store
+.directory
+*~
+
+# IDE and Editor configs
+.vscode/
+.idea/
