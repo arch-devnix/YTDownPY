@@ -38,7 +38,7 @@ python main.py
 ## Showcase
 <p align="center">
   <img width="400" alt="YTDownPy Interface" src="https://github.com/user-attachments/assets/29babbe8-3469-4690-9df6-035b6c323364" />
-  <img width="420" alt="YTDownPy Demo" src="https://github.com/user-attachments/assets/3be38115-3cb2-4142-b89c-79e282b6cc00" />
+  <img width="430" alt="YTDownPy Demo" src="https://github.com/user-attachments/assets/3be38115-3cb2-4142-b89c-79e282b6cc00" />
 </p>
 
 ## License
